@@ -3,6 +3,16 @@ https://dl.acm.org/doi/10.1145/3580845
 
 Dataset: https://rochester.box.com/s/k9lh33m98mx2hum3kyp2c4j6eoo6bcde 
 
+- Ataxia is a degenerative disease of the nervous system that surfaces as difficulty with motor control, such as walking imbalance. Many patients with Ataxia do not have easy access to neurologists – especially those living in remote localities and developing/ underdeveloped countries. 
+- In a multi-year collaboration effort with READISCA, we collected a video dataset of ataxia diagnosed and control subjects from 11 clinics located in 8 different states across the United States.
+- The dataset contains 150 fully anonymized 6 seconds long videos from 89 unique study participants (24 control, 65 diagnosed) performing gait task.
+- We developed a computer vision and machine learning pipeline to identify, track, and separate participants from complex surroundings and predict their risk and severity of Spinocerebellar Ataxia.
+- Ataxia risk-prediction model achieves 83.06% accuracy and an 80.23% F1 score. 
+- Ataxia severity-assessment model achieves MAE score of 0.6225 and a Pearson's correlation coefficient score of 0.7268.
+- Our model performs competitively while tested on clinics completely unseen during training.
+- Our feature importance analysis shows the model automatically picks up traits that are consistent with established clinical knowledge.
+
+
 Citation:
 
 ```@article{10.1145/3580845,
