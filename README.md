@@ -14,7 +14,8 @@ Dataset: https://rochester.box.com/s/k9lh33m98mx2hum3kyp2c4j6eoo6bcde
 
 Citation:
 
-```@article{10.1145/3580845,
+```
+@article{10.1145/3580845,
 author = {Rahman, Wasifur and Hasan, Masum and Islam, Md Saiful and Olubajo, Titilayo and Thaker, Jeet and Abdelkader, Abdel-Rahman and Yang, Phillip and Paulson, Henry and Oz, Gulin and Durr, Alexandra and Klockgether, Thomas and Ashizawa, Tetsuo and Investigators, Readisca and Hoque, Ehsan},
 title = {Auto-Gait: Automatic Ataxia Risk Assessment with Computer Vision from Gait Task Videos},
 year = {2023},
@@ -31,4 +32,5 @@ month = {mar},
 articleno = {26},
 numpages = {19},
 keywords = {datasets, computer vision, pose estimation, gait, ataxia}
-}```
+}
+```
