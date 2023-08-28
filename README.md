@@ -10,7 +10,7 @@ Furthermore, we developed a computer vision and machine learning pipeline to ide
 
 
 **Limitations:**
-- 5 of the videos were corrupted during the anonymization process and were removed from the public release. Hence the results using this dataset might vary slightly from the original study.
+- 5 of the videos were removed during the anonymization process for the public release. Hence the results using this dataset might vary slightly from the original study.
 - #146 is a video of the study subject attempting tandem walking instead of regular walk.
 - #144, the subject is wearing shoes, which is a protocol violation, but practically should not make a difference in analysis.
 - #63 the examiner or staff blocked the view for part of the recording length.
