@@ -9,6 +9,12 @@ Ataxia is a neurodegenerative disease that surfaces as difficulty with motor con
 Furthermore, we developed a computer vision and machine learning pipeline to identify, track, and separate participants from complex surroundings and predict their risk and severity of Spinocerebellar Ataxia. Ataxia risk-prediction model achieves 83.06% accuracy and an 80.23% F1 score. Ataxia severity-assessment model achieves MAE score of 0.6225 and a Pearson's correlation coefficient score of 0.7268. Our model performs competitively while tested on clinics completely unseen during training. Our feature importance analysis shows the model automatically picks up traits that are consistent with established clinical knowledge.
 
 
+**Limitations:**
+- 5 of the videos were corrupted during the anonymization process and were removed from the public release. Hence the results using this dataset might vary slightly from the original study.
+- #146 is a video of the study subject attempting tandem walking instead of regular walk.
+- #144, the subject is wearing shoes, which is a protocol violation, but practically should not make a difference in analysis.
+- #63 the examiner or staff blocked the view for part of the recording length.
+
 
 **Citation:**
 
