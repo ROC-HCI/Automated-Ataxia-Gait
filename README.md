@@ -1,6 +1,7 @@
 This repository contains code and dataset used in the paper, [_Auto-Gait: Automatic Ataxia Risk Assessment with Computer Vision from Gait Task Videos_](https://dl.acm.org/doi/10.1145/3580845) published at Proceedings of ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (IMWUT), 2023.
 
 Dataset: https://rochester.box.com/s/k9lh33m98mx2hum3kyp2c4j6eoo6bcde 
+
 If you use this dataset, please provide attribution to [_READISCA_](https://readisca.org/) and _NIH grant number U01NS104326_. 
 
 Ataxia is a neurodegenerative disease that surfaces as difficulty with motor control, such as walking imbalance. Many patients with Ataxia do not have easy access to neurologists – especially those living in remote localities and developing/ underdeveloped countries. In a multi-year collaboration effort with READISCA, we collected a video dataset of ataxia diagnosed and control subjects from 11 clinics located in 8 different states across the United States. The dataset contains 150 fully anonymized 6 seconds long videos from 89 unique study participants (24 control, 65 diagnosed) performing gait task.
