@@ -10,7 +10,7 @@ Furthermore, we developed a computer vision and machine learning pipeline to ide
 
 
 
-Citation:
+**Citation:**
 
 ```
 @article{10.1145/3580845,
