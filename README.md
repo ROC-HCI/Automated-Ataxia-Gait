@@ -1,4 +1,4 @@
-This repository contains code and dataset used in the paper, [_Auto-Gait: Automatic Ataxia Risk Assessment with Computer Vision from Gait Task Videos_](https://dl.acm.org/doi/10.1145/3580845) published at Proceedings of ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (IMWUT), 2023.
+This repository contains code and dataset used in the paper, [_Auto-Gait: Automatic Ataxia Risk Assessment with Computer Vision from Gait Task Videos_](https://dl.acm.org/doi/10.1145/3580845) published at _Proceedings of ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (IMWUT), 2023._
 
 Dataset: https://rochester.box.com/s/k9lh33m98mx2hum3kyp2c4j6eoo6bcde 
 
