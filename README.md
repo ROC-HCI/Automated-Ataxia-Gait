@@ -1,6 +1,8 @@
 This repository contains code and an anonymized version of the dataset used in the paper, [_Auto-Gait: Automatic Ataxia Risk Assessment with Computer Vision from Gait Task Videos_](https://dl.acm.org/doi/10.1145/3580845) published at _Proceedings of ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (IMWUT), 2023._
 
-Dataset: [https://rochester.box.com/v/AtaxiaDataset](https://rochester.box.com/v/AtaxiaDataset)
+Anonymized dataset: [https://rochester.box.com/v/AtaxiaDataset](https://rochester.box.com/v/AtaxiaDataset)
+
+## Warning: In order for the public release, the participant faces and the background had to be blurred. Which might cause the object detection and pose estimation models to fail.
 
 If you use this dataset, please provide attribution to [**_READISCA_**](https://readisca.org/) and **_NIH grant number U01NS104326_**. 
 
