@@ -2,7 +2,7 @@ This repository contains code and an anonymized version of the dataset used in t
 
 Anonymized dataset: [https://rochester.box.com/v/AtaxiaDataset](https://rochester.box.com/v/AtaxiaDataset)
 
-## Warning: In order for the public release, the participant faces and the background had to be blurred. Which might cause the object detection and pose estimation models to fail.
+## Warning: In order to make the public release, the participant faces and the background had to be blurred. Which might cause the object detection and pose estimation models to fail.
 
 If you use this dataset, please provide attribution to [**_READISCA_**](https://readisca.org/) and **_NIH grant number U01NS104326_**. 
 
